@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAoB;EAClB,KAAK,EAAE,MAAM;EACb,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,MAAM,EAAE,SAAS",
+"sources": ["sing-in-and-sign-up.style.scss"],
+"names": [],
+"file": "sing-in-and-sign-up.style.css"
+}
